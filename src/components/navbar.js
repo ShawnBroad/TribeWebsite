@@ -22,6 +22,7 @@ const Nav1 = () => {
           <NavDropdown.Item href="./photolibrary">Photo Library</NavDropdown.Item>
         </NavDropdown>
         <Nav.Link href="./contactus">Contact Us</Nav.Link>
+        <Nav.Link href="./apply">Links for Artist</Nav.Link>
       </Nav>
     </Navbar.Collapse>
   </Container>

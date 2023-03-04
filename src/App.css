@@ -186,6 +186,12 @@ body{
   border:#2C1320 solid 8px;
 }
 
+.formStyle{
+  text-align: center;
+  width: 50%;
+  justify-content: center;
+
+}
 .contactText{
   padding-bottom: 50%;
 }
