@@ -17,6 +17,7 @@ import Contact from './pages/contact';
 import TattooRodeo from './pages/tattoorodeo';
 import Party from './pages/party';
 import Events from './pages/events';
+import Apply from './pages/Apply';
 
 
 function App() {
@@ -53,6 +54,9 @@ function App() {
         </Routes>
         <Routes>
           <Route path='/events' element={<Events/>}/>
+        </Routes>
+        <Routes>
+          <Route path='/apply' element={<Apply/>}/>
         </Routes>
       </BrowserRouter>
       <Footer/>
