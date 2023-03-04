@@ -11,7 +11,7 @@ const MainPageCarousel = () => {
     <Carousel.Item>
       <img
         className="d-block w-100 carouselImage"
-        src={Poster}
+        src={CarShows}
         alt="First slide"
       />
     </Carousel.Item>

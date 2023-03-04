@@ -9,8 +9,8 @@ const Home = () =>{
 <div className='width'> 
 
 <div className='homeContent bigger'>
-    <h2>Welcome to 4-Ever West Tattoo Festival!</h2>
-    <p>This is your one stop shop for everything related to the 2022 4-ever West Tattoo Fest! We are excited to be
+    <h2>Welcome to the 8th annual 4-Ever West Tattoo Festival!</h2>
+    <p>This is your one stop shop for everything related to the 2023 4-ever West Tattoo Fest! We are excited to be
         brining this event to the wonderful people of Cheyenne again!<br></br>
     </p>
 
@@ -20,7 +20,7 @@ const Home = () =>{
     <Col sm={6}>
         <div className='bottomInfo'><h1>Schedule!</h1> 
         <p className='bigger'>
-            Dates: July 14th-17th<br></br>
+            Dates: July 13th-16th<br></br>
             $10-Day Entry fee<br></br>
             $20 4-Day weekend VIP pass<br></br>
         </p>
@@ -45,7 +45,7 @@ const Home = () =>{
                             Wyo Arm Sports- Super Match- 4pm start
                         </li>
                         <li>
-                            Music on the Plaza starts at 5:30pm - Mystery Skulls with Sensei
+                            Music on the Plaza starts at 5:30pm Artist: to be announced
                         </li>
                     </ul>
                 </li>
@@ -90,10 +90,10 @@ const Home = () =>{
                     Music:
                     <ul>
                         <li>
-                            Friday: Mystery Skulls with Sensi (Depot Plaza)
+                            Friday: To be announced (Depot Plaza)
                         </li>
                         <li>
-                            Saturday: Twista/Petey Pablo and Sammy G (Depot Plaza)
+                            Saturday: To be announced (Depot Plaza)
                         </li>
                     </ul>
                 </li>
