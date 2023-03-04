@@ -31,7 +31,7 @@ const Events = () => {
                             Wyo Arm Sports- Super Match- 4pm start
                         </li>
                         <li>
-                            Music on the Plaza starts at 5:30pm - Mystery Skulls with Sensei
+                            Music on the Plaza starts at 5:30pm - Artist to be announced
                         </li>
                     </ul>
                 </li>
@@ -76,10 +76,10 @@ const Events = () => {
                     Music:
                     <ul>
                         <li>
-                            Friday: Mystery Skulls with Sensi (Depot Plaza)
+                            Friday: To be announced (Depot Plaza)
                         </li>
                         <li>
-                            Saturday: Twista/Petey Pablo and Sammy G (Depot Plaza)
+                            Saturday: To be announced (Depot Plaza)
                         </li>
                     </ul>
                 </li>

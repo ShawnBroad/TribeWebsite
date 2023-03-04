@@ -23,6 +23,7 @@ const Nav1 = () => {
         </NavDropdown>
         <Nav.Link href="./contactus">Contact Us</Nav.Link>
         <Nav.Link href="./apply">Links for Artist</Nav.Link>
+        <Nav.Link href="./sponsor">Become a Sponsor</Nav.Link>
       </Nav>
     </Navbar.Collapse>
   </Container>
