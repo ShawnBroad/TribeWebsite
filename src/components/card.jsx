@@ -1,8 +1,6 @@
 import Trinidad from '../assets/Trinidad.jpg';
 import Juan from '../assets/Juan.jpg';
-import Scott from '../assets/Scott.jpg';
 import Nick from '../assets/Nick.jpg';
-import Daryl from '../assets/Daryl.jpg';
 import Zach from '../assets/Zach.JPG';
 import Chris from '../assets/chrisfx.jpg';
 import BrianAdams from '../assets/BrianAdamns.jpg';
@@ -29,13 +27,13 @@ import CharlieDeherrera from '../assets/CharlieDeHerrera.jpg';
 import GavinShanks from '../assets/GavinShanks.jpg';
 import JoshPalmer from '../assets/JoshPalmer.jpg';
 import JaredSoto from '../assets/JaredSoto.jpg'
+import Ashton from '../assets/ashton.jpg'
 
 const cardContent = [
     {Title:'Trinidad Serrano', Text:  'Cheyenne, Wyoming: The T.R.I.B.E. Zoo Tattoo', Image: Trinidad, Link: 'https://www.instagram.com/senorserrano/' },
     {Title:'Juan Paul Garcia', Text: 'Cheyenne, Wyoming: The T.R.I.B.E. Zoo Tattoo', Image: Juan, Link:'https://www.instagram.com/juan_paul_garcia_art/'},
-    {Title:'Scott Schultz',Text: 'Cheyenne, Wyoming: The T.R.I.B.E. Zoo Tattoo', Image: Scott, Link:'https://www.instagram.com/sschultz.tattoo/'},
+    {Title:'Ashton Boyles',Text: 'Cheyenne, Wyoming: The T.R.I.B.E. Zoo Tattoo', Image: Ashton , Link:'https://www.instagram.com/ashton_alchemy/'},
     {Title: 'Nick Brennan', Text:'Cheyenne, Wyoming: The T.R.I.B.E. Zoo Tattoo', Image:Nick, Link:'https://www.instagram.com/brennan_art_96/'},
-    {Title: 'Daryl Hardy', Text:'Cheyenne, Wyoming: The T.R.I.B.E Zoo Tattoo', Image: Daryl, Link:'https://www.instagram.com/darylhardyink/'},
     {Title: 'Zach Rabbit', Text:'Cheyenne, Wyoming: The T.R.I.B.E. Zoo Tattoo', Image: Zach, Link:'https://www.instagram.com/p/CdbBNq7lS3I/'},
     {Title: 'Eddie Fernandez', Text:'Cheyenne, Wyoming: The T.R.I.B.E. Zoo Tattoo', Image: EddieFernandez, Link:'https://www.instagram.com/og_ilest/'},
     {Title: 'Chis JTot', Text:'Englewood, Colorado: Phantom 8', Image: Chris, Link:'https://www.instagram.com/chrisjtot/'},
@@ -47,15 +45,11 @@ const cardContent = [
     {Title: 'Mario Esse Huerito Martinez', Text: 'Lakewood, Colorado: Pleasure and Pain Tattoo', Image: Mario, Link: 'https://www.instagram.com/sonovaguntattoo/'},
     {Title: 'Josh Teran', Text: 'Tucson, Arizona: Empire Tattoo', Image: JoshTeran, Link:'https://www.instagram.com/jayteran/' },
     {Title: 'Enrique Argueta', Text: 'Tucson, Arizond: Empire Tattoo', Image:EnriqueArgueta, Link:'https://www.instagram.com/lachispa8/'},
-    {Title: 'Katherine Starr', Text: 'Wright, Wyoming: Jackalope Tattoo Collective', Image:KatherineStarr, Link:'https://www.instagram.com/katherinestarrtattoos/'},
     {Title: 'Brycen Sullivan', Text: 'Mesa, Arizona: Ink Bomb Tattoo', Image: BrycenSullivan, Link:'https://www.instagram.com/brycen13/'},
     {Title:'Josh Palmer', Text: 'Fort Collins, Colorado: Inked Out Tattoo Supply', Image: JoshPalmer, Link:'https://www.instagram.com/artbyjoshpalmer/'},
     {Title: 'Savannah Cudzilo', Text: 'North Platte, Nebraska: Sic Ink', Image: SavannahCudizilo, Link:'https://www.instagram.com/savannahcudzilo/'},
     {Title: 'Meraenda Kakahbah', Text:'North Platte, Nebraska: The Parlor Tattoo Studio', Image: MeraendaKekahbah, Link:'https://www.instagram.com/queen_euryale/' },
     {Title: 'Ray Schmoldt', Text:'Denver, Colorado: Marion Street Tattoo', Image: RaySchmoldt, Link:'https://www.instagram.com/nerml/' },
-    {Title: 'Jessica Hooper', Text:'Cheyenne, Wyoming: Twizted Needle', Image:JessicaHooper, Link:'https://www.instagram.com/emi.artist/'},
-    {Title: 'Ashley Oros', Text:'Cheyenne, Wyoming: Twizted Needle', Image:AshleyOros, Link:'https://www.instagram.com/a.o.artz/' },
-    {Title: 'Bill Quattlebaum', Text:'Cheyenne, Wyoming: Defiant Buddha Bodyworks', Image:BillQuattlebaum, Link:'https://www.instagram.com/bill_quattlebaum_tattoo/'},
     {Title: 'Hunter Lopez', Text: 'Cheyenne, Wyoming: Defiant Buddha Bodyworks', Image: HunterLopez, Link: 'https://www.instagram.com/hunnylopez/'},
     {Title: 'Than Wilson', Text: 'Cheyenne, Wyoming: Crimson Sky Tattoo', Image: ThanWilson, Link: 'https://www.instagram.com/thantichrist/' },
     {Title: 'Chris Haley', Text: 'Cheyenne, Wyoming: Crimson Sky Tattoo', Image: ChrisHaley, Link: 'https://www.instagram.com/chrishaleytattoos/'},
